@@ -1,15 +1,28 @@
 # RoundTable-Tutorial
 Tutorial on how to use RoundTable ADAO
 ---
-### 1. Go to RoundTable
+<a href="#GoTo">1. Go to RoundTable</a>
+
+<a href="#Load">2. Load the Trasury Script</a>
+
+<a href="#Submit">3. How to submit a Transaction</a>
+
+<a href="#Sign">4. How to sign a Transaction</a>
+
+<a href="#Transaction">5. Submit the Transaction</a>
+
+  
+
+<div id="GoTo">
+  <h1> 1. Go to RoundTable </h1>
 
 https://roundtable.theadao.io/
 
 ![image](https://user-images.githubusercontent.com/93602962/175553372-db15e369-f0fd-4941-8bb0-5f541692e851.png)
+</div>
 
----
-
-### 2. Load the Trasury Script 
+<div id="Load">
+<h1> 2. Load the Trasury Script </h1>
 
 - Go to the "settings" tab on the left bar.
 
@@ -28,9 +41,10 @@ https://roundtable.theadao.io/
 
 ![image](https://user-images.githubusercontent.com/93602962/175557586-f7938609-dee5-473f-aedd-f0054998e8cf.png)
 
+</div>
 
----
-### 3. How to submit a Transaction
+<div id="Submit">
+<h1>  3. How to submit a Transaction </h1>
 
 - Click on the 'Create Transaction' button.
 
@@ -61,8 +75,10 @@ https://roundtable.theadao.io/
 - Now the Transaction is ready to be signed. Share the Transaction with the signers by clicking the button 'Copy URL'.
 
 ![image](https://user-images.githubusercontent.com/93602962/175569342-3e435d96-6be7-4e11-afc3-c7521b54e479.png)
+</div>
 
-### 4. How to sign a Transaction
+<div id="Sign">
+<h1> 4. How to sign a Transaction </h1>
 
 There is no need to have ADA on the signers addresses. All the fees will be charged on the Treasury wallet.
 - Open the URL from the transaction in the Web Explorer with the Nami Wallet address previously. The Transaction Details will be shown.
@@ -90,8 +106,10 @@ There is no need to have ADA on the signers addresses. All the fees will be char
 - The Transaction signer address-hash will change to green, showing that the signer has authorize the Transaction. Everyone with the link of the Transaction can see this change too.
 
 ![image](https://user-images.githubusercontent.com/93602962/175572815-9ff823b4-791f-4c5b-9a94-29ba3d6b7eba.png)
+</div>
 
-### 5. Submit the Transaction
+<div id="Transaction">
+<h1> 5. Submit the Transaction </h1>
 - Once all the signers have sign the transaction, it will look like this. And the Transaction is ready be Submited.
 
 ![image](https://user-images.githubusercontent.com/93602962/175573814-dc74f184-2e09-41a2-b16a-66b9c3ae3811.png)
@@ -103,7 +121,7 @@ There is no need to have ADA on the signers addresses. All the fees will be char
 - On the top-right corner a small notification will show that the Transaction has been submitted succesfully. 
 
 ![image](https://user-images.githubusercontent.com/93602962/175574419-fa20a257-60f9-4b85-87e5-de5d58f09c69.png)
-
+</div>
 
 
 

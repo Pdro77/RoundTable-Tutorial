@@ -18,7 +18,7 @@ Tutorial on how to use RoundTable ADAO
 <div id="GoTo">
   <h1> 1. Go to RoundTable </h1>
 
-https://roundtable.theadao.io/
+  <h2>https://roundtable.theadao.io/</h2>
 
 ![image](https://user-images.githubusercontent.com/93602962/175553372-db15e369-f0fd-4941-8bb0-5f541692e851.png)
 </div>

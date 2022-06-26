@@ -11,6 +11,8 @@ Tutorial on how to use RoundTable ADAO
 
 <a href="#Transaction">5. Submit the Transaction</a>
 
+<a href="#Create">6. Create a New Treasury</a>
+
   
 
 <div id="GoTo">
@@ -123,7 +125,41 @@ There is no need to have ADA on the signers addresses. All the fees will be char
 ![image](https://user-images.githubusercontent.com/93602962/175574419-fa20a257-60f9-4b85-87e5-de5d58f09c69.png)
 </div>
 
+<div id="Create">
+  <h1> 6. Create a New Treasury</h1>
+  
+  - Click on the '+New Treasury' Button, on the left side.
 
+  
+  ![image](https://user-images.githubusercontent.com/93602962/175832675-ebed81e1-fe67-48fa-a968-5002a7b76f24.png)
+
+  - Fill the 'Name' and 'Description' of the Treasury. (These fields can also be modified later)
+  
+  ![image](https://user-images.githubusercontent.com/93602962/175833151-a7ec08eb-6740-4072-85e6-db1f022b099b.png)
+
+  - Click on the '+ Add signer' Button.
+ 
+  ![image](https://user-images.githubusercontent.com/93602962/175833191-eda7b549-a552-4a89-87b6-42403d2f267e.png)
+
+  - Paste the Nami wallet address on the field and press '+ Add Address'.
+  
+  ![image](https://user-images.githubusercontent.com/93602962/175833497-b9bf4ed4-99f8-4306-8392-9ed73119bcf6.png)
+
+  
+  ![image](https://user-images.githubusercontent.com/93602962/175833482-60a017aa-e66f-4e4a-9aa3-8ddfd339c81f.png)
+
+  - Then you can add more signers, by clicking on the '+Add signer' button and repeating the last step. (It can not be added more addresses after the Treasury is deployed).
+  
+  ![image](https://user-images.githubusercontent.com/93602962/175833617-7bd5c4d4-c05d-4653-a824-bed4e92edcaa.png)
+
+  - Once you have added all the signers you can proceed to choose the 'Required Signers' section. Where you can choose from 'require all of the signers to sign the transaction' or 'at lest a specific number of the signers'. 
+  
+  ![image](https://user-images.githubusercontent.com/93602962/175833863-c1e0cb62-d73a-485e-b7d5-aa5ea0200bf1.png)
+  
+  -Finally click on the 'Save Treasury' button.
+  
+  ![image](https://user-images.githubusercontent.com/93602962/175833951-95a7331a-b380-4d3b-95a5-720e3113312d.png)
+</div >
 
 
 

@@ -156,7 +156,7 @@ There is no need to have ADA on the signers addresses. All the fees will be char
   
   ![image](https://user-images.githubusercontent.com/93602962/175833863-c1e0cb62-d73a-485e-b7d5-aa5ea0200bf1.png)
   
-  -Finally click on the 'Save Treasury' button.
+  - Finally click on the 'Save Treasury' button.
   
   ![image](https://user-images.githubusercontent.com/93602962/175833951-95a7331a-b380-4d3b-95a5-720e3113312d.png)
 </div >

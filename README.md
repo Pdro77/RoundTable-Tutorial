@@ -159,6 +159,15 @@ There is no need to have ADA on the signers addresses. All the fees will be char
   - Finally click on the 'Save Treasury' button.
   
   ![image](https://user-images.githubusercontent.com/93602962/175833951-95a7331a-b380-4d3b-95a5-720e3113312d.png)
+
+  - Then to export the script go to the settings tab.
+  
+  ![image](https://user-images.githubusercontent.com/93602962/175834208-257eef43-684d-4f94-bec9-d3a55c5f3bcd.png)
+
+  - And click on the 'Export User Data'.
+  
+  ![image](https://user-images.githubusercontent.com/93602962/175834242-c5518c4d-7401-4b0d-9d58-6b6de5d40c7b.png)
+
 </div >
 
 
